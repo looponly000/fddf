@@ -1,0 +1,7 @@
+from tkinter import*
+
+calcu = Tk()
+
+pass
+
+calcu.mainloop
